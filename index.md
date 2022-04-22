@@ -1,8 +1,8 @@
 ## Welcome to QZLuo's Pages
 
-You can use the [editor on GitHub](https://github.com/QZKasoma-Luo/QZLuo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Computer Science Student of University of Victoria, loves Riding Road bike ٩(●˙▿˙●)۶…⋆ฺ.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The reason that this page exists is for code learning!
 
 ### Markdown
 
